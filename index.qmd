@@ -1,11 +1,12 @@
 ---
-title: "masonposner.github.io"
+title: "Mason Posner"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: trestles
+  links: 
+    - text: Email
+      href: mailto:mposner@ashland.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Here is the start of my new website!
