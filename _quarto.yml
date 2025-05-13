@@ -5,16 +5,17 @@ project:
 website:
   title: "Mason Posner"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
       - publications.qmd
+      - teaching.qmd
 
 format:
   html:
     theme:
-      - sketchy
+      - flatly
       - brand
     css: styles.css
     toc: true

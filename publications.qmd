@@ -2,3 +2,12 @@
 title: "Publications"
 ---
 
+### Heading 1
+
+### Heading 2
+
+Where does this text go
+
+and this text
+
+![](media/headshot2.jpg){fig-align="right"}

@@ -11,6 +11,13 @@
     "href": "index.html",
     "title": "Mason Posner",
     "section": "",
-    "text": "Here is the start of my new website!"
+    "text": "I am a Professor in the Department of Biology/Toxicology in the College of Arts and Sciences at Ashland University, a medium sized private school in Ohio. My undergraduate research students and I use a small tropical fish called the zebrafish to study the development of the ocular lens and what can go wrong to produce cataracts, one of the leading causes of human blindness. We use CRISPR gene editing to discover and investigate the molecular machinery behind lens biology with the support of funding from the National Institutes of Health. I teach a number of courses including Marine Biology, Zoology, Cell Biology and Molecular Biology, as well as a seminar on professional development for science majors. I direct our Choose Ohio First scholarship program for STEM students and developed the social media outreach and alumni engagement for our science programs."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Heading 1\n\n\nHeading 2\nWhere does this text go\nand this text"
   }
 ]
