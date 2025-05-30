@@ -2,12 +2,4 @@
 title: "Publications"
 ---
 
-### Heading 1
-
-### Heading 2
-
-Where does this text go
-
-and this text
-
-![](media/headshot2.jpg){fig-align="right"}
+Check back for a list of our papers. In the meantime check out this [Google Scholar page](https://scholar.google.com/citations?user=rfSjsnkAAAAJ&hl=en).

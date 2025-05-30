@@ -4,10 +4,11 @@ project:
 
 website:
   title: "Mason Posner"
+  favicon: media/logo.jpg
   navbar:
     right:
       - href: index.qmd
-        text: Home
+        text: About
       - research.qmd
       - publications.qmd
       - teaching.qmd

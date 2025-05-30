@@ -1,7 +1,7 @@
 ---
-title: "Mason Posner"
-image: media/headshot.jpg
-toc: true
+title: ""
+image: media/headshot4.jpg
+toc: false
 about: 
   template: trestles
   links: 
@@ -10,20 +10,18 @@ about:
       href: mailto:mposner@ashland.edu
     - icon: linkedin
       href: https://www.linkedin.com/in/masonposner/
+    - text: ORCiD
+      href: https://orcid.org/0000-0003-2817-3395
     - text: Bluesky
       href: https://bsky.app/profile/mason91.bsky.social
 ---
 
-I am a Professor in the Department of Biology/Toxicology in the College
-of Arts and Sciences at Ashland University, a medium sized private
-school in Ohio. My undergraduate research students and I use a small
-tropical fish called the zebrafish to study the development of the
-ocular lens and what can go wrong to produce cataracts, one of the
-leading causes of human blindness. We use CRISPR gene editing to
-discover and investigate the molecular machinery behind lens biology
-with the support of funding from the National Institutes of Health. I
-teach a number of courses including Marine Biology, Zoology, Cell
-Biology and Molecular Biology, as well as a seminar on professional
-development for science majors. I direct our Choose Ohio First
-scholarship program for STEM students and developed the social media
-outreach and alumni engagement for our science programs.
+### Mason Posner
+
+Trustees Distinguished Professor of Biology\
+Ashland University\
+Department of Biology and Toxicology
+
+I am a Professor in the Department of Biology and Toxicology in the College of Arts and Sciences at Ashland University, a medium sized private institution in Ohio. My undergraduate research students and I use a small tropical fish called the zebrafish to study the development of the ocular lens and what can go wrong to produce cataracts, one of the leading causes of human blindness. We use CRISPR gene editing to investigate the molecular machinery behind lens biology and aging with the support of funding from the National Eye Institute.\
+\
+I teach a number of courses including Marine Biology, Zoology, Cell Biology, and Molecular Biology, as well as a seminar on professional development for science majors. I direct Ashland University's Choose Ohio First scholarship program for STEM students and co-founded the Ohio Zebrafish Undergraduate Research Conference (OHZU).
