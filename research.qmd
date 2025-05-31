@@ -40,3 +40,6 @@ The primary job of the lens is to focus incoming light on the retina so that we 
 It has been hypothesized that lens crystallins may play broader roles than simply producing the density needed for light refraction. We are currently using CRISPR-generated fish lacking two different alpha-crystallins to explore how their loss may impact developmental processes both within the lens and in other parts of the body.
 
 ## What happens as the lens ages?
+Because most of the cells in the lens lack nuclei they are not able to replace proteins as they age. This makes the lens an excellent model for studying protein aging in particular, and molecular aging in general. This aging is the cause of most lens cataracts, the leading cause of human blindness worldwide, and presbyopia, the inability to focus up close as we get older.
+
+Zebrafish typically have a lifespan of 3-5 years in a research laboratory. This means that zebrafish become "middle-aged" by 3 years, allowing us to more quickly study the effects of aging.

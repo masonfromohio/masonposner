@@ -2,3 +2,20 @@
 title: "Teaching"
 format: html
 ---
+
+I teach a range of courses from **Vertebrate** and **Marine Biology** to **Cell** and **Molecular Biology**. I also teach our department's seminar course in **Professional Development**, a science-focused career development course. Here are some examples of course trips and projects.
+
+## Vertebrate Biology
+
+::: {layout-ncol=2}
+![Visiting giraffe stables at the Columbus Zoo](media/col_zoo.jpg){height=5in fig-align="left"}
+
+![Sea lion training with Ashland University alumna Courtney Kourie](media/Kourie col zoo.jpg){fig-align="left"}
+:::
+## Marine Biology
+
+::: {layout-ncol=2}
+![Kayaking off Manteo Island in the Outer Banks](media/obx 1.jpg){fig-align="left"}
+
+![Hatteras Island Lighthouse](media/obx 2.jpg){fig-align="left"}
+:::
