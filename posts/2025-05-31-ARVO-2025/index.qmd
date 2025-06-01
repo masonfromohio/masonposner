@@ -1,0 +1,17 @@
+---
+title: "ARVO Salt Lake City"
+description: "Four of us presented at an annual vision meeting" 
+date: 05-31-2025
+categories: [Meetings]
+image: photo1.jpg
+draft: True
+format: html
+---
+
+This is the text of my first post
+
+::: {layout-ncol="2"}
+![Lab members Taylor Garver and Kiera Kaeser ready to present their research using CRISPR to identify novel genes involved in lens development](photo1.jpg)
+
+![Hiking in the hills outside Salt Lake City between meeting sessions with Taylor, Kiera, and recent lab alumnus Teddy Togliatti](photo2.jpg)
+:::

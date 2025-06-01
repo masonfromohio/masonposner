@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research – Mason Posner</title>
+<title>News – Mason Posner</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./media/logo.jpg" rel="icon" type="image/jpeg">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,7 +69,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -94,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" aria-current="page"> 
+    <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -106,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
+    <a class="nav-link active" href="./news.html" aria-current="page"> 
 <span class="menu-text">News</span></a>
   </li>  
 </ul>
@@ -121,23 +181,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#using-zebrafish-to-study-vision" id="toc-using-zebrafish-to-study-vision" class="nav-link active" data-scroll-target="#using-zebrafish-to-study-vision">Using zebrafish to study vision</a></li>
-  <li><a href="#what-genes-regulate-eye-lens-development" id="toc-what-genes-regulate-eye-lens-development" class="nav-link" data-scroll-target="#what-genes-regulate-eye-lens-development">What genes regulate eye lens development?</a></li>
-  <li><a href="#how-do-the-most-abundant-proteins-in-the-lens-work" id="toc-how-do-the-most-abundant-proteins-in-the-lens-work" class="nav-link" data-scroll-target="#how-do-the-most-abundant-proteins-in-the-lens-work">How do the most abundant proteins in the lens work?</a></li>
-  <li><a href="#what-happens-as-the-lens-ages" id="toc-what-happens-as-the-lens-ages" class="nav-link" data-scroll-target="#what-happens-as-the-lens-ages">What happens as the lens ages?</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWVldGluZ3M=">Meetings <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">News</h1>
 </div>
 
 
@@ -154,99 +205,47 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="using-zebrafish-to-study-vision" class="level2">
-<h2 class="anchored" data-anchor-id="using-zebrafish-to-study-vision">Using zebrafish to study vision</h2>
-<p>Our lab uses the small zebrafish to understand how the lens of the eye develops, functions, and what happens as it gets older. <strong>Why study the lens? As we get older the lens naturally becomes cloudy to produce cataracts, one of the leading causes of blindness worldwide</strong>. Gene mutations can also cause early developing congenital cataracts in children. Understanding the causes of cataracts can lead to better prevention.<br>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="TWVldGluZ3M=" data-listing-date-sort="1748664000000" data-listing-file-modified-sort="1748747286338" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49">
+<a href="./posts/2025-05-31-ARVO-2025/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2025-05-31-ARVO-2025/photo1.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
-<div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ARVO Salt Lake City
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('TWVldGluZ3M='); return false;">
+Meetings
+</div>
+</div>
+<div class="card-text listing-description">
+Four of us presented at an annual vision meeting
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
 
 </div>
-<div class="quarto-layout-panel" data-layout-ncol="2">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="media/adult_fish.png" class="img-fluid figure-img"></p>
-<figcaption>Adult zebrafish and closeup of eye with lens cataract</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="media/eye cataract.jpg" class="img-fluid" style="width:2.5in"></p>
-</div>
-</div>
-</div>
-<p>Another reason to study the eye lens is to explain how it becomes biological glass. The lens is made of living cells, but most of those cells lose their nuclei and other internal structures, or organelles. <strong>This means that the cells at the center of our lens, which were produced before our birth, are older than we are</strong>, and must function without the ability to repair and replace their components. This is highly unusual, allowing us to explore some fundamental cell biology.<br>
-</p>
-<p><strong>Why zebrafish?</strong> Like many fishes, the females release eggs that are fertilized in the water by males. We can collect these fertilized eggs and grow the baby fish (embryos) in petri dishes. Most of the zebrafish’s organs, including the eye, develop in 2-3 days and the embryos are transparent. That allows us to <strong>watch lens development in real time in a live animal</strong>. The process is similar to what happens in humans, so zebrafish work can be translated to human health.</p>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[[1,1], [1,1]]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="media/2 cell stage.jpg" class="img-fluid figure-img" style="width:3in"></p>
-<figcaption>2-cell stage embryo</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="media/24 hours.jpg" class="img-fluid figure-img" style="width:3in"></p>
-<figcaption>24 hours old</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="media/3 day fish.jpg" class="img-fluid figure-img" style="width:3in"></p>
-<figcaption>3 days old</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="media/3 day eye.jpg" class="img-fluid figure-img" style="width:3in"></p>
-<figcaption>Image of live lens in the eye</figcaption>
-</figure>
+<div class="listing-date">
+May 31, 2025
 </div>
 </div>
 </div>
 </div>
-<p>Many molecular tools, like CRISPR gene editing, allow us to tinker with zebrafish lens development to see how it works. <strong>Using this approach we are pursuing the following research questions</strong>:</p>
-</section>
-<section id="what-genes-regulate-eye-lens-development" class="level2">
-<h2 class="anchored" data-anchor-id="what-genes-regulate-eye-lens-development">What genes regulate eye lens development?</h2>
-<p>Previous work from many labs have identified a number of gene required to make a healthy eye lens. Much of this work is done in mammal model species, like the mouse. Here <a href="https://www.cell.com/trends/genetics/abstract/S0168-9525(17)30133-6">is an excellent review</a> of what is known about the molecular control of lens development. However, there are multiple open questions about lens development and likely many undiscovered controls on the process. We recently worked with our colleague Dylan Farnsworth at the University at Albany to publish <a href="https://pubmed.ncbi.nlm.nih.gov/33705730/">the first atlas describing gene expression at the individual cell level during lens development for any vertebrate species</a>. This zebrafish data showed that there are numerous genes that are highly expressed in lens cells with no currently known lens function. We are using CRISPR/Cas9 editing to damage these genes to identify novel mechanisms involved in lens development.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="media/arvo 25.jpg" class="img-fluid figure-img" style="width:6in"></p>
-<figcaption>Undergraduate research students in the lab present results from our screen of novel lens development genes at ARVO meeting in 2025</figcaption>
-</figure>
+</a>
 </div>
-</section>
-<section id="how-do-the-most-abundant-proteins-in-the-lens-work" class="level2">
-<h2 class="anchored" data-anchor-id="how-do-the-most-abundant-proteins-in-the-lens-work">How do the most abundant proteins in the lens work?</h2>
-<p>The primary job of the lens is to focus incoming light on the retina so that we can produce clear images of our surroundings. Focusing light requires that it be bent, or refracted, much like the light passing through a camera lens. The lens produces this refraction by packing its central fiber cells with large quantities of proteins called lens crystallins. We have used zebrafish to better <a href="https://pubmed.ncbi.nlm.nih.gov/36572168/">understand the role that these proteins play during lens development</a> and to <a href="http://www.molvis.org/molvis/v11/a10/">compare their function to the same proteins in humans</a>. We have even compared the same lens crystallin protein in animals living in a wide range of temperatures, including the antarctic toothfish, <a href="https://pubmed.ncbi.nlm.nih.gov/22479631/">to discover how the protein evolves to function at these temperatures</a>.<br>
-</p>
-<p>It has been hypothesized that lens crystallins may play broader roles than simply producing the density needed for light refraction. We are currently using CRISPR-generated fish lacking two different alpha-crystallins to explore how their loss may impact developmental processes both within the lens and in other parts of the body.</p>
-</section>
-<section id="what-happens-as-the-lens-ages" class="level2">
-<h2 class="anchored" data-anchor-id="what-happens-as-the-lens-ages">What happens as the lens ages?</h2>
-<p>Because most of the cells in the lens lack nuclei they are not able to replace proteins as they age. This makes the lens an excellent model for studying protein aging in particular, and molecular aging in general. This aging is the cause of most lens cataracts, the leading cause of human blindness worldwide, and presbyopia, the inability to focus up close as we get older.</p>
-<p>Zebrafish typically have a lifespan of 3-5 years in a research laboratory. This means that zebrafish become “middle-aged” by 3 years, allowing us to more quickly study the effects of aging.</p>
-
-
-</section>
-
-</main> <!-- /main -->
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

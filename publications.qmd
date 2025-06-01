@@ -23,49 +23,48 @@ Farnsworth, D, **M. Posner**, A. Miller. 2021. Single cell transcriptomics of th
 
 ![This analysis identified numerous genes with strong lens expression but no known reported lens function. We are screening these genes with CRISPR editing to explore novel lens development mechanisms (Figure 7)](media/2021 paper fig 7.png)
 
-
 :::
 
 ## 2019
 **Posner, M**, M.S. McDonald, K.L. Murray, AJ Kiss. 2019. Why does the zebrafish cloche mutant develop cataract? *PLOS ONE* 14(3): e0211399
 
 ## 2017
-Posner, M, K.L. Murray, M.S. McDonald, H. Eighinger, B. Andrew, A. Drossman, Z. Haley, J. Nussbaum, L.L. David, K.J. Lampi. 2017. The zebrafish as a model system for analyzing mammalian and native α-crystallin promoter function. PeerJ 5:e4093
+**Posner, M**, K.L. Murray, M.S. McDonald, H. Eighinger, B. Andrew, A. Drossman, Z. Haley, J. Nussbaum, L.L. David, K.J. Lampi. 2017. The zebrafish as a model system for analyzing mammalian and native α-crystallin promoter function. *PeerJ* 5:e4093
 
 ## 2016
-Fountain, DI, L. Knapp, K. Baugh, M. Posner, S.D. Fenster. 2016. Piccolo paralogs and orthologs display conserved patterns of splicing within the C2A and C2B domains. Genes and Genomics. 38:407-419
+Fountain, DI, L. Knapp, K. Baugh, **M. Posner**, S.D. Fenster. 2016. Piccolo paralogs and orthologs display conserved patterns of splicing within the C2A and C2B domains. *Genes and Genomics*. 38:407-419
 
 ## 2013
-Posner, M., J. Skiba, M. Brown, J. Liang, J. Nussbaum, H. Prior. 2013. Loss of the small heat shock protein αA-crystallin does not lead to detectable defects in early zebrafish lens development. Experimental Eye Research. 116:227-233
+**Posner, M**., J. Skiba, M. Brown, J. Liang, J. Nussbaum, H. Prior. 2013. Loss of the small heat shock protein αA-crystallin does not lead to detectable defects in early zebrafish lens development. *Experimental Eye Research*. 116:227-233
 
-Weidenhamer, J.D., M. Li, J. Allman, R.G. Bergosh, M. Posner. 2013. Evidence Does not Support a Role for Gallic Acid in *Phragmites australis* Invasion Success. Journal of Chemical Ecology. 39:323-332
+Weidenhamer, J.D., M. Li, J. Allman, R.G. Bergosh, **M. Posner**. 2013. Evidence Does not Support a Role for Gallic Acid in *Phragmites australis* Invasion Success. Journal of Chemical Ecology. 39:323-332
 
 ## 2012
-Posner, M, A.J. Kiss, J. Skiba, A. Drossman, M. Dolinka, J.F. Hejtmancik, Y. Sergeev. 2012. Functional validation of hydrophobic adaptation to physiological temperature in the small heat shock protein αA-crystallin. PLoS One 7(3): E34438
+**Posner, M**, A.J. Kiss, J. Skiba, A. Drossman, M. Dolinka, J.F. Hejtmancik, Y. Sergeev. 2012. Functional validation of hydrophobic adaptation to physiological temperature in the small heat shock protein αA-crystallin. *PLoS One* 7(3): E34438
 
 ## 2008
-Posner, M., M. Hawke, C. LaCava, C. Prince, N.R Bellanco, R.W. Corbin. 2008. A proteome map of the zebrafish (*Danio rerio*) lens reveals similarities between zebrafish and mammalian crystallin expression. Molecular Vision. 14:806-814
+**Posner, M**., M. Hawke, C. LaCava, C. Prince, N.R Bellanco, R.W. Corbin. 2008. A proteome map of the zebrafish (*Danio rerio*) lens reveals similarities between zebrafish and mammalian crystallin expression. *Molecular Vision*. 14:806-814
 
 ## 2006
-Smith, A.A., K. Wyatt, J. Vacha, T.S. Vihtelic, J.S. Zigler, G.J. Wistow, M. Posner.  2006.  Gene duplication and separation of functions in alpha B-crystallin from zebrafish (*Danio rerio*). FEBS Journal. 273:481-490
+Smith, A.A., K. Wyatt, J. Vacha, T.S. Vihtelic, J.S. Zigler, G.J. Wistow, **M. Posner**.  2006.  Gene duplication and separation of functions in alpha B-crystallin from zebrafish (*Danio rerio*). *FEBS Journal*. 273:481-490
 
 ## 2005
-Dahlman, J., K. Margot, L-L. Ding, J. Horwitz and M. Posner. 2005.  Zebrafish alpha crystallins: protein structure and chaperone-like activity compared to their mammalian orthologs.  Molecular Vision. 11:88-96
+Dahlman, J., K. Margot, L-L. Ding, J. Horwitz and **M. Posner**. 2005.Zebrafish alpha crystallins: protein structure and chaperone-like activity compared to their mammalian orthologs. *Molecular Vision*. 11:88-96
 
 ## 2003
-Posner, M.  2003. A comparative view of alpha crystallins: the contribution of comparative studies to understanding function. Integrative and Comparative Biology. 43:481-491
+**Posner, M**.  2003. A comparative view of alpha crystallins: the contribution of comparative studies to understanding function. *Integrative and Comparative Biology*. 43:481-491
 
 ## 2002
-Posner, M.  2002. Linking stress and cell action: review of cell and molecular responses to stress, volume 2: protein adaptations and signal transduction.  Journal of Experimental Biology.  205:223-2324
+**Posner, M**.  2002. Linking stress and cell action: review of cell and molecular responses to stress, volume 2: protein adaptations and signal transduction. *Journal of Experimental Biology*. 205:223-2324
 
-Runkle, S., J. Hill, M. Kantorow, J. Horwitz and M. Posner.  2002. Sequence and spatial expression of zebrafish (*Danio rerio*) αA-crystallin.  Molecular Vision.  8:45-50
+Runkle, S., J. Hill, M. Kantorow, J. Horwitz and **M. Posner**.  2002. Sequence and spatial expression of zebrafish (*Danio rerio*) αA-crystallin.  *Molecular Vision*. 8:45-50
 
 ## 1999
-Posner, M., M. Kantorow and J. Horwitz. 1999. Cloning, sequencing and differential expression of αB-crystallin in the zebrafish, *Danio rerio*. Biochimica et Biophysica Acta – Gene Structure and Expression. 1447: 271-277
+**Posner, M**., M. Kantorow and J. Horwitz. 1999. Cloning, sequencing and differential expression of αB-crystallin in the zebrafish, *Danio rerio*. *Biochimica et Biophysica Acta – Gene Structure and Expression*. 1447: 271-277
 
-Posner, M. and R.J. Lavenberg. 1999. Movement of California halibut, *Paralichthys californicus*, along the coast of California. California Department of Fish and Game. 85: 45-55. (11 citations)
+**Posner, M**. and R.J. Lavenberg. 1999. Movement of California halibut, *Paralichthys californicus*, along the coast of California. *California Department of Fish and Game*. 85: 45-55
 
-Posner, M. and R.J. Lavenberg. 1999. *Kasatkia seigeli*, a new species of Stichaeid (Perciformes: Stichaeidae) from California. Copeia. 1999(4): 1035-1040
+**Posner, M**. and R.J. Lavenberg. 1999. *Kasatkia seigeli*, a new species of Stichaeid (Perciformes: Stichaeidae) from California. *Copeia*. 1999(4): 1035-1040
 
 
 
