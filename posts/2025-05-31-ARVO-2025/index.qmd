@@ -1,17 +1,19 @@
 ---
-title: "ARVO Salt Lake City"
-description: "Four of us presented at an annual vision meeting" 
+title: "Association for Research in Vision and Ophthalmology meeting '25"
+description: "The lab heads to Salt Lake City to present our work" 
 date: 05-31-2025
 categories: [Meetings]
 image: photo1.jpg
-draft: True
+draft: FALSE
 format: html
 ---
 
-This is the text of my first post
+Two undergraduates from our lab and one recent alum traveled with me to Salt Lake City to present three poster presentations at the annual meeting of the Association for Research in Vision and Ophthalmology (ARVO) annual meeting. Taylor Garver and Kiera Kaeser presented data from our CRISPR screens to identify novel genes involved in lens development. Lab alumnus Teddy Togliatti was a co-author on a poster with our collaborator Dylan Farnsworth from the [University at Albany](https://www.albany.edu/rna/faculty/dylan-farnsworth) on single-cell RNA-seq analysis of zebrafish larvae with a disabled gene for the transcription factor *cebpg*. I presented a bulk RNA-seq analysis of our alpha crystallin mutants.
+
+In between sessions we had the chance to hike up in the hills near the University of Utah and visit the Natural History Museum of Utah.
 
 ::: {layout-ncol="2"}
-![Lab members Taylor Garver and Kiera Kaeser ready to present their research using CRISPR to identify novel genes involved in lens development](photo1.jpg)
+![Lab members Taylor Garver and Kiera Kaeser are ready to present their research using CRISPR to identify novel genes involved in lens development](photo1.jpg)
 
 ![Hiking in the hills outside Salt Lake City between meeting sessions with Taylor, Kiera, and recent lab alumnus Teddy Togliatti](photo2.jpg)
 :::

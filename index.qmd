@@ -9,6 +9,7 @@ about:
       text: Email
       href: mailto:mposner@ashland.edu
     - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/masonposner/
     - text: ORCiD
       href: https://orcid.org/0000-0003-2817-3395
