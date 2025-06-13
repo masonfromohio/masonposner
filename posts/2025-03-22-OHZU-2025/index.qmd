@@ -1,0 +1,17 @@
+---
+title: "3rd Ohio Undergraduate Zebrafish Research Conference held at Ashland University"
+description: "This year's meeting brought 67 participants from 11 institutions and 4 companies" 
+date: 03-22-2025
+categories: [Meetings]
+image: ohzu award.jpg
+draft: FALSE
+format: html
+---
+
+The third [Ohio Undergraduate Zebrafish Research Conference (OHZU)](https://ohzu.wordpress.com/) was held at Ashland University on March 22nd. I co-founded this conference in 2019 with my colleague [Sarah Petersen from Kenyon College](https://www.kenyon.edu/directory/sarah-petersen/). This year we were joined by [Monica Blatnik of Oberlin College](https://www.oberlin.edu/monica-blatnik), who will host our 4th meeting in 2027.
+
+::: {layout-ncol="2"}
+![Co-organizer Sarah Petersen recognizes our best presentation awardee, Gabriel Otubu, from the University of Maryland, Baltimore County](ohzu award.jpg)
+
+![Six students from our lab presented at the meeting](lab photo.jpg)
+:::

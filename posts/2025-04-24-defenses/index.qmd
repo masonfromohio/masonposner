@@ -1,0 +1,19 @@
+---
+title: "Honors Capstone Defenses"
+description: "Erica and Taylor successfully defend their research" 
+date: 04-24-2025
+categories: [Students]
+image: samples defense.jpg
+draft: FALSE
+format: html
+---
+
+Taylor Garver and Erica Samples both successfully defended their honors capstone research in front of family, friends, and faculty today! Taylor used CRISPR gene editing to show that the gene *c1qbp* plays a role in eye lens development, laying the foundation for understanding how the mitochondrial matrix protein it codes for contributes to formation of the lens. Taylor was accepted to the [Medical Lab Science (MLS) program at the Cleveland Clinic](https://my.clevelandclinic.org/departments/pathology/medical-professionals/medical-laboratory-science-program), where she will complete her fourth year of undergraduate studies and earn her MLS certification.
+
+Erica explored the function of another gene, *ell2*, which codes for a protein involved in producing mRNA. The function of this gene and protein are also unknown in the lens, but Erica's data suggests that its loss does impact lens development. Erica will graduate this Spring as one of Ashland University's validictorians and will start in [The Ohio State University's College of Optometry](https://optometry.osu.edu/) this Fall. 
+
+::: {layout-ncol="2"}
+![Taylor Garver celebrates her successfull defense](garver defense.jpg)
+
+![Erica Samples with images of her crispant zebrafish and their lenses](samples defense.jpg)
+:::
