@@ -1,0 +1,12 @@
+---
+title: "Lab Members"
+format: html
+---
+Undergraduate students work in our lab both during the academic year and as paid research assistants during the summer. Read below for info on some of the current lab members and lab alumni. If you are a current AU student and are interested in becoming part of our group [email Mason Posner](mailto:mposner@ashland.edu).
+
+::: {layout-ncol="2"}
+![Much of the lab was at the 2025 OHZU meeting. From left to right: Sydney McMillan '25, Maddie Dolenga '25, Taylor Garver, Ella Ives, Erica Samples '25, and Tori Haggit '25.](people/OHZU 2025 Group.jpg){width="4in"}
+
+![Taylor Garver is finishing her undergraduate degree in the Cleveland Clinic Medical Lab Science program. Bryce Patterson '23 is in the DO program at Lake Erie College of Medicine](people/Taylor and Bryce 2023.jpg){width="4in"}
+:::
+Check back for a history of past lab members and what they have been doing since graduating from Ashland University.

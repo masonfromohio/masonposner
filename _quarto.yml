@@ -6,10 +6,13 @@ website:
   title: "Mason Posner"
   favicon: media/logo.jpg
   navbar:
+    left: 
+     - href: index.qmd
+       text: Bio
     right:
-      - href: index.qmd
-        text: About
       - research.qmd
+      - href: people.qmd
+        text: Lab Members
       - publications.qmd
       - teaching.qmd
       - news.qmd
