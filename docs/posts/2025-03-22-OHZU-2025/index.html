@@ -191,6 +191,12 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="maddie award.jpg" class="img-fluid figure-img" style="width:5in"></p>
+<figcaption>Lab member Maddie Dolenga wins honorable mention for best presentation</figcaption>
+</figure>
+</div>
 
 
 
@@ -299,6 +305,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -613,6 +624,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>This website was created with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

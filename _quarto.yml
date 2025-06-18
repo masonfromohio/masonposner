@@ -5,6 +5,7 @@ project:
 website:
   title: "Mason Posner"
   favicon: media/logo.jpg
+  page-footer: "This website was created with [Quarto](https://quarto.org/)."
   navbar:
     left: 
      - href: index.qmd
@@ -24,6 +25,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
 editor: visual
 

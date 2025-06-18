@@ -15,3 +15,5 @@ The third [Ohio Zebrafish Undergraduate Research Conference (OHZU)](https://ohzu
 
 ![Six students from our lab presented at the meeting](lab photo.jpg)
 :::
+
+![Lab member Maddie Dolenga wins honorable mention for best presentation](maddie award.jpg){width=5in fig-align="left"}

@@ -1,0 +1,15 @@
+---
+title: "New Website is Live"
+description: "Using Quarto and R to make a new professional site" 
+date: 06-18-2025
+categories: [R]
+image: logo.jpg
+draft: FALSE
+format: html
+---
+
+For a few years I have wanted to make a new professional website using R. Thanks to guidance from [this very helpful post by Sam Shanny-Csik](https://ucsb-meds.github.io/creating-quarto-websites/) my new site is now live using [Quarto](https://quarto.org/). These pages are currently hosted using GitHub pages, but I plan to move them to [Netlify](https://www.netlify.com/) later this summer.
+
+Working on this site has been a great opportunity to also learn [R Markdown](https://rmarkdown.rstudio.com/), which I have been integrating into my data analysis workflow.
+
+While there has been some learning curve, in the end I have preferred working with Quarto over my old Wordpress site. There are many other Quarto users with [helpful guides for altering webpage style](https://www.guillaumedehaene.com/posts/2024/03/quarto_website_configuration.html).

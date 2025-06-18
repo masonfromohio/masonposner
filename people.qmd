@@ -1,12 +1,28 @@
 ---
-title: "Lab Members"
+title: "Lab Members and Alumni"
 format: html
 ---
+
 Undergraduate students work in our lab both during the academic year and as paid research assistants during the summer. Read below for info on some of the current lab members and lab alumni. If you are a current AU student and are interested in becoming part of our group [email Mason Posner](mailto:mposner@ashland.edu).
 
 ::: {layout-ncol="2"}
-![Much of the lab was at the 2025 OHZU meeting. From left to right: Sydney McMillan '25, Maddie Dolenga '25, Taylor Garver, Ella Ives, Erica Samples '25, and Tori Haggit '25.](people/OHZU 2025 Group.jpg){width="4in"}
+![Much of the lab was at the 2025 OHZU meeting. From left to right: Sydney McMillan '25, Maddie Dolenga '25, Taylor Garver, Ella Ives, Erica Samples '25, and Tori Haggit '25. Maddie will be starting medical school at LMU-DCOM Knoxville in the Fall of 2025. Erica will be entering the College of Optometry at The Ohio State University.](people/OHZU_2025_Group.jpg){width="4in"}
 
-![Taylor Garver is finishing her undergraduate degree in the Cleveland Clinic Medical Lab Science program. Bryce Patterson '23 is in the DO program at Lake Erie College of Medicine](people/Taylor and Bryce 2023.jpg){width="4in"}
+![Taylor Garver is finishing her undergraduate degree in the Cleveland Clinic Medical Lab Science program. Bryce Patterson '23 is in the DO program at Lake Erie College of Medicine](people/Taylor_Bryce_2023.jpg){width="4in"}
 :::
-Check back for a history of past lab members and what they have been doing since graduating from Ashland University.
+
+::: {layout-ncol="2"}
+![Teddy Togliatti '25 works at Ohio Health and is currently applying to medical school.](people/Teddy_Togliatti.jpg)
+
+![Madison Suttle '22 and Emma Arra '24. Madison is a sample processing technician at Charles River Laboratories and Emma is a lab technician in a CAR-T cell lab at the Cleveland Clinic with previous experience at the FDA.](people/Suttle_Arra.jpg)
+:::
+
+::: {layout-ncol="2"}
+![Emmaline Kepp '19 and Brandon Andrew '18. Emmaline is a cell culture technologist at a biotechnology company. Brandon earned his MS in Entrepreneurial Biotechology at Case Western Reserve University and is a project manager in the healthcare entreprenuership industry.](people/kepp_andrew.jpg)
+
+![Kelly Murray '16 went on to earn her MS in Molecular Biology at Cornell University and is now an Anatomy and Physiology instructor.](people/murray.jpg)
+
+:::
+
+
+Check back for more history on past lab members and what they have been doing since graduating from Ashland University.
