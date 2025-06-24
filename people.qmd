@@ -20,9 +20,13 @@ Undergraduate students work in our lab both during the academic year and as paid
 ::: {layout-ncol="2"}
 ![Emmaline Kepp '19 and Brandon Andrew '18. Emmaline is a cell culture technologist at a biotechnology company. Brandon earned his MS in Entrepreneurial Biotechology at Case Western Reserve University and is a project manager in the healthcare entreprenuership industry.](people/kepp_andrew.jpg)
 
-![Kelly Murray '16 went on to earn her MS in Molecular Biology at Cornell University and is now an Anatomy and Physiology instructor.](people/murray.jpg)
-
+![Kelly Murray '16 went on to earn her MS in Molecular Biology at Cornell University and is now an Assistant Professor of Biology at Tompkins Cortland Community College.](people/murray.jpg)
 :::
 
+::: {layout-ncol="2"}
+![A former lab trip to the Great Lakes Vision meeting on The Ohio State University campus with Jackie Skiba '10, Phillip Wages '11, and Amy Drossman '11. Jackie works in quality control at the J.M. Smucker company in Ohio, Phillip went on to get his PhD in toxicology at UNC Chapel Hill and is an Associate Director at Estee Lauder, and Amy is a Doctor of Optometry.](people/skiba_wages_drossman.jpg)
+
+![Becky Richards '04 and Mike Danko '04. Becky went on to earn her MD/PhD at Oregon Health and Science University and is now an Assistant Professor at the University of Wisconsin-Madison with a specialty in pediatric oncology. Mike earned his MD at The Ohio State University and is an anesthesiologist.](people/richards_danko.jpg)
+:::
 
 Check back for more history on past lab members and what they have been doing since graduating from Ashland University.
