@@ -5,10 +5,12 @@ format: html
 
 Undergraduate students work in our lab both during the academic year and as paid research assistants during the summer. Read below for info on some of the current lab members and lab alumni. If you are a current AU student and are interested in becoming part of our group [email Mason Posner](mailto:mposner@ashland.edu).
 
+![Our summer 2025 lab crew: Kiera Kaeser, Marin Dixon, and Molly Coleman.](people/Summer_2025_lab_group.jpg){width="6in"}
+
 ::: {layout-ncol="2"}
 ![Much of the lab was at the 2025 OHZU meeting. From left to right: Sydney McMillan '25, Maddie Dolenga '25, Taylor Garver, Ella Ives, Erica Samples '25, and Tori Haggit '25. Maddie will be starting medical school at LMU-DCOM Knoxville in the Fall of 2025. Erica will be entering the College of Optometry at The Ohio State University.](people/OHZU_2025_Group.jpg){width="4in"}
 
-![Taylor Garver is finishing her undergraduate degree in the Cleveland Clinic Medical Lab Science program. Bryce Patterson '23 is in the DO program at Lake Erie College of Medicine](people/Taylor_Bryce_2023.jpg){width="4in"}
+![Taylor Garver is finishing her undergraduate degree in the Cleveland Clinic Medical Lab Science program. Bryce Patterson '23 is in the DO program at Lake Erie College of Medicine.](people/Taylor_Bryce_2023.jpg){width="4in"}
 :::
 
 ::: {layout-ncol="2"}
